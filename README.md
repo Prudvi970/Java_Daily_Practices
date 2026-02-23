@@ -12,15 +12,15 @@ This repository contains my daily Java practice programs aimed at strengthening 
 
 ✅ Object-Oriented Programming (OOP)
 
-Classes & Objects
+- Classes & Objects
 
-Inheritance
+- Inheritance
 
-Polymorphism
+- Polymorphism
 
-Abstraction
+- Abstraction
 
-Encapsulation
+- Encapsulation
 
 ✅ Arrays & Strings
 
@@ -65,22 +65,23 @@ Daily-Java-Practice/
 ├── FileHandling/
 ├── JDBC/
 └── README.md
+
 🚀 How to Run
 
-Clone the repository
+- Clone the repository
 
-Code:
-git clone https://github.com/your-username/Daily-Java-Practice.git
+- Code:
+   git clone https://github.com/your-username/Daily-Java-Practice.git
 
-Navigate to the project folder
+- Navigate to the project folder
 
-Compile the program: 
+- Compile the program: 
 
-javac FileName.java
+   javac FileName.java
 
-Run the program: 
+- Run the program: 
 
-java FileName
+   java FileName
 
 📈 Goal
 
